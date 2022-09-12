@@ -10,9 +10,6 @@
 ![Unity: 2019.4.3f1](https://img.shields.io/badge/Unity-2019+-black) 
 ![.NET 4.x](https://img.shields.io/badge/.NET-4.x-black) 
 
-
-***
-
 ## 插画来源
 大伏アオ
 [@blue00f4](https://twitter.com/blue00f4)
