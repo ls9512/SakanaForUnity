@@ -1,8 +1,4 @@
-<center>
-    <img src="Assets/Sakana/Texture/Takina.png" height="160px">
-    <img src="Assets/Sakana/Texture/Chisato.png" height="160px">
-</center>
-<br/>
+![Sakana](.github/Images/Logo.png)
 
 # 🐟 [Sakana!] Lycoris Recoil 石蒜模拟器 For Unity
 
