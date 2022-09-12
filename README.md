@@ -1,7 +1,7 @@
-<img src="Assets/Sakana/Texture/Takina.png" height="196px">
-<img src="Assets/Sakana/Texture/Chisato.png" height="196px">
+<img src="Assets/Sakana/Texture/Takina.png" height="160px">
+<img src="Assets/Sakana/Texture/Chisato.png" height="160px">
 
-# 🐟 Sakana Lycoris Recoil 石蒜模拟器 For Unity
+# 🐟 [Sakana!] Lycoris Recoil 石蒜模拟器 For Unity
 
 ![license](https://img.shields.io/github/license/ls9512/SakanaForUnity)
 ![topLanguage](https://img.shields.io/github/languages/top/ls9512/SakanaForUnity)
@@ -11,10 +11,14 @@
 ![Unity: 2019.4.3f1](https://img.shields.io/badge/Unity-2019+-black) 
 ![.NET 4.x](https://img.shields.io/badge/.NET-4.x-black) 
 
+
 ## 插画来源
 大伏アオ
 [@blue00f4](https://twitter.com/blue00f4)
 [Pixiv](https://pixiv.me/aoiroblue1340)
+
+## 预览
+![Sakana](.github/Images/Preview.gif)
 
 ## 功能
 * 点击拖拽，松开后反方向回弹，并衰减停止。
@@ -33,8 +37,8 @@
 ## 使用
 
 ### 1.内置预制
-* Assets/Sakana/Prefab/Chisato.prefab
-* Assets/Sakana/Prefab/Takina.prefab
+* `Assets/Sakana/Prefab/Chisato.prefab`
+* `Assets/Sakana/Prefab/Takina.prefab`
 
 直接拖放到需要使用 [Sakana] 的场景UI Canvas 节点下，并设置需要的位置，锚点朝向以及缩放。
 
