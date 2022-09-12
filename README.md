@@ -1,5 +1,8 @@
-<img src="Assets/Sakana/Texture/Takina.png" height="160px">
-<img src="Assets/Sakana/Texture/Chisato.png" height="160px">
+<center>
+    <img src="Assets/Sakana/Texture/Takina.png" height="160px">
+    <img src="Assets/Sakana/Texture/Chisato.png" height="160px">
+</center>
+<br/>
 
 # 🐟 [Sakana!] Lycoris Recoil 石蒜模拟器 For Unity
 
@@ -11,6 +14,8 @@
 ![Unity: 2019.4.3f1](https://img.shields.io/badge/Unity-2019+-black) 
 ![.NET 4.x](https://img.shields.io/badge/.NET-4.x-black) 
 
+
+***
 
 ## 插画来源
 大伏アオ
