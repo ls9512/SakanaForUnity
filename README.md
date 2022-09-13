@@ -14,6 +14,8 @@
 [Pixiv](https://pixiv.me/aoiroblue1340)
 
 ## 预览
+[📺Bilibili 视频预览](https://www.bilibili.com/video/BV1VP411G7fS)
+
 ![Sakana](.github/Images/Preview.gif)
 
 ## 功能
