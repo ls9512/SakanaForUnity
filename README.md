@@ -2,13 +2,11 @@
 
 # 🐟 [Sakana!] Lycoris Recoil 石蒜模拟器 For Unity
 
+![Unity: 2019.4.3f1](https://img.shields.io/badge/Unity-2019+-black) 
 ![license](https://img.shields.io/github/license/ls9512/SakanaForUnity)
 ![topLanguage](https://img.shields.io/github/languages/top/ls9512/SakanaForUnity)
 ![size](https://img.shields.io/github/languages/code-size/ls9512/SakanaForUnity)
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
-
-![Unity: 2019.4.3f1](https://img.shields.io/badge/Unity-2019+-black) 
-![.NET 4.x](https://img.shields.io/badge/.NET-4.x-black) 
 
 ## 插画来源
 大伏アオ
